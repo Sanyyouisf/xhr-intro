@@ -1,0 +1,26 @@
+
+{
+	"dinosaur":[
+		{
+			"name":"Rex",
+			"type":"T-Rex",
+			"food":"smal-ones",
+			"url":"https://ae01.alicdn.com/kf/HTB1DpSzHFXXXXaOaXXXq6xXFXXXA/Electronic-font-b-Dinosaur-b-font-Model-Toy-Lay-Eggs-font-b-Dinosaur-b-font-Toys.jpg"
+
+		},
+		{
+			"name":"Rex2",
+			"type":"Stegosaurus",
+			"food":"leave",
+			"url":"http://www.sampan.com.au/wp-content/uploads/2013/07/Dinosaur-new-version.jpg"
+
+		},
+		{
+			"name":"peter",
+			"type":"Z-Rex",
+			"food":"birds",
+			"url":"https://i.ytimg.com/vi/_dcojg8MFPo/maxresdefault.jpg"
+
+		}
+	]	
+}
